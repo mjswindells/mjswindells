@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**mjswindells/mjswindells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 개인적으로 공부하는 지식들을 모두 기록하는 공간입니다 :)
 
-Here are some ideas to get you started:
+## **✏️ Research Interests**
+  
+🔹 **A.I**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       
+🔹 **OS**
+
+        
+🔹 **IoT**
+
+
+       
+        
+
+## 💡 Languages
+
+         Python     
+         C/C++      
+         MATLAB     
+         Java       
+
+## Contact
+
+### 🌍 E-mail
+
+- wgs06052@naver.com
+
+#### More Info about me !
+
+CV : [Notion](//)
+
+
+<div align="center">
+        
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdldnxks12%2Fhit-counter&count_bg=%23E783DA&title_bg=%23070707&icon=icq.svg&icon_color=%23EDE0E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+        
+</div>
+
